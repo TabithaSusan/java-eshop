@@ -1,0 +1,10 @@
+Persistence:
+	- customer name / email und hash wert des passworts aus datenbank lesen
+Business:
+	- eingegebenes passwort hashen
+	- über name / email customer finden und hash wert mit gespeichertem hash wert vergleichen
+
+TODO:
+- Login fixen
+- Registrierung
+- Warenkorb
